@@ -26,12 +26,15 @@ As part of learning to code,I completed a project that involved creating a basic
 
 ## Live-Demo-
 
-[Netflix-Clone-Live]()
+[Netflix-Clone-Live](https://netflix-clone-wd.netlify.app/)
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
 
 
 ## Screenshot-
+
+![image](https://user-images.githubusercontent.com/48729682/227184261-88aca988-1aa2-4472-aa87-7b6f51d6f4b4.png)
+
 
 
