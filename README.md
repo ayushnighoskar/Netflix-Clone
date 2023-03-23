@@ -1,6 +1,6 @@
 # Netflix-Clone
 
-As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
+As part of learning to code,I completed a project that involved creating a basic Netflix clone built using HTML, CSS, and JavaScript. It utilizes the TMDB API and YouTube Search API to fetch and display movie and TV show data.
 
 ## Tech-Stack-
 
@@ -12,12 +12,17 @@ As part of learning to code,I completed a project that involved creating a basic
 
 ## Features-
 
-- Control song playback (play, pause, next)
-- Display the currently playing song and album artwork
+- Movie and TV show data: The project uses the TMDB API and YouTube Search API to fetch and display movie and TV show data. Users can browse through a collection of popular movies and TV shows, search for specific titles, and view trailers.
 
-## Usage-
+- User-friendly interface: The project features a clean and intuitive user interface that makes it easy to navigate and search for content. The design is also responsive, adapting to different screen sizes and devices.
 
-Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
+- Responsive design: The project is designed to be responsive, ensuring that the user interface is optimized for all screen sizes and devices. This includes desktops, laptops, tablets, and smartphones.
+
+- API integration: The project demonstrates skills in API integration, specifically using the TMDB API and YouTube Search API to fetch data from external sources and display it in the application.
+
+- Front-end development: The project showcases skills in front-end development, specifically using HTML, CSS, and JavaScript to create the user interface, implement interactivity, and fetch data from APIs.
+
+- Project management: The project was developed using a version control system (Git) and follows best practices for code organization and documentation.
 
 ## Live-Demo-
 
