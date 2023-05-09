@@ -11,7 +11,6 @@ As part of learning to code,I completed a project that involved creating a basic
 </div>
 
 
-
 ## Features-
 
 - Movie and TV show data: The project uses the TMDB API and YouTube Search API to fetch and display movie and TV show data. Users can browse through a collection of popular movies and TV shows, search for specific titles, and view trailers.
